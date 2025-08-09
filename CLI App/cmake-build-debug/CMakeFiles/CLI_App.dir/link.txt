@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -Wl,--dependency-file=CMakeFiles/CLI_App.dir/link.d CMakeFiles/CLI_App.dir/main.cpp.o CMakeFiles/CLI_App.dir/FileHandler.cpp.o CMakeFiles/CLI_App.dir/PasswordManager.cpp.o -o CLI_App
